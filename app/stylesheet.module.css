@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Gerold';
+    src: url('Gerald.otf') format('opentype');
+}
+
+
+
+.box {
+    bottom: 8%;
+    position: absolute;
+    left: -4%;
+}
+.gynged {
+    position: absolute;
+    color: #F6D6A6;
+    font-family: Gerold;
+    font-size: 100px;
+    left: 1%;
+    top: 1%;
+
+}
+
+.container {
+    display: block;
+    width: 700px;
+    height: 100px;
+    transition: transform 0.3s cubic-bezier(0.9, 0.1, 0.1, 0.9);
+}
+
+.container:hover {
+    transform: translateX(20px);
+}
+
+.examples {
+    background-color: #B3CBB9;
+}
+
+.features {
+    background-color: #84A9C0;
+}
+
+.pricing {
+    background-color: #6A66A3;
+}
+
+.contact {
+    background-color: #542E71;
+}
+
+.other {
+    background-color: #35144e;
+}
+
+.containername {
+
+    color: #FFF;
+    font-family: 'Trip Sans', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 100px
+    
+}
+
