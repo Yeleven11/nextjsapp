@@ -10,6 +10,11 @@
     position: absolute;
     left: -4%;
 }
+.image {
+    bottom: 20%;
+    position: absolute;
+    left: 99%;  
+}
 .gynged {
     position: absolute;
     color: #F6D6A6;
@@ -17,7 +22,6 @@
     font-size: 100px;
     left: 1%;
     top: 1%;
-
 }
 
 .container {
@@ -52,7 +56,6 @@
 }
 
 .containername {
-
     color: #FFF;
     font-family: 'Trip Sans', sans-serif;
     font-size: 50px;
@@ -61,7 +64,5 @@
     line-height: normal;
     text-align: left;
     padding-top: 25px;
-    padding-left: 100px
-    
+    padding-left: 100px;
 }
-
