@@ -3,6 +3,59 @@
     src: url('Gerald.otf') format('opentype');
 }
 
+.image1 {
+    width: 44%; /* adjust as needed */
+
+    border-radius: 10px; /* add rounded corners */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); /* add drop shadow */
+}
+.image2 {
+    width: 44%; /* adjust as needed */
+
+    border-radius: 10px; /* add rounded corners */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); /* add drop shadow */
+}
+.image3 {
+    width: 50%; /* adjust as needed */
+
+    border-radius: 10px; /* add rounded corners */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); /* add drop shadow */
+
+}
+.image4 {
+    width: 50%; /* adjust as needed */
+
+    border-radius: 10px; /* add rounded corners */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); /* add drop shadow */
+
+}
+.image5 {
+    width: 50%; /* adjust as needed */
+
+    border-radius: 10px; /* add rounded corners */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); /* add drop shadow */
+
+}
+    
+
+.title {
+    position: absolute;
+
+    width: 25%;
+    left: 1%;
+    top: 15%;
+
+}
+
+.header {
+    position: absolute;
+
+    height: 100px;
+    left: 82%;
+    top: 0px;
+
+
+}
 
 
 .box {
